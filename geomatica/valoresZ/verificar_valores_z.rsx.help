@@ -1,0 +1,7 @@
+{
+    "ALG_DESC": "<img src='C:/Users/USER/Downloads/walsh-toolkit/logo-walsh-25.png' width='300' align='center'/><br><b>Este herramienta nos permite verificar la existencia correcta de los valores Z de cualquier capa</b>",
+    "Ingrese_tu_capa_vectorial":"Ingresar tu capa vectorial",
+    "ALG_CREATOR": "<a href='https://geografo.pe'>Antony Barja</a>",
+    "Resultado":"Valores Z, maximo y minimo de la capa vectorial",
+    "ALG_VERSION": "1.0.0"
+}
